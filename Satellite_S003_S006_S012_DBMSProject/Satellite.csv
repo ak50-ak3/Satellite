@@ -1,0 +1,678 @@
+Sat_Name,Country,Country_of_Operator,Owner,Users,Purpose,Class_Of _Orbit,Type_Of_Orbit,Perigee_in_km,Apogee_in_km,Date_Of_Launch,Contractor,Country_of_Contractor,Launch_Site,Launch_Vehicle,COSPAR_Number,SatID,Comments
+BARS-M4 (Cosmos 2567),Russia,Russia,Ministry of Defense,Military,Earth Observation,LEO,Sun-Synchronous,501,514,23/03/23,Progress Rocket and Space Center,Russia,Plesetsk Cosmodrome,Soyuz-2.1a,2023-040A,55978,Electronic intelligence gathering (ELINT).
+Dove 4y-1 (0 Flock 4-y1 2415),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AG,55039,No Comments
+Dove 4y-10 (0 Flock 4y10 24c3),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,536,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001W,55029,No Comments
+Dove 4y-11 (0 Flock 4y-11 24a7),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AL,55043,No Comments
+Dove 4y-12 (0 Flock 4y-12 24cf) ,USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,522,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BJ,55065,No Comments
+Dove 4y-13 (0 Flock 4y-13 24c7),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BY,55079,No Comments
+Dove 4y-14 (0 Flock 4y14 24b3),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001R,55024,No Comments
+Dove 4y-15 (0 Flock 4y-15 24b3),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BM,55068,No Comments
+Dove 4y-16 (0 Flock 4y-16 24c9),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AH,55040,No Comments
+Dove 4y-17 (0 Flock 4y17 24c2),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,522,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001Y,55031,No Comments
+Dove 4y-18 (0 Flock 4y18 24ce),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001Q,55023,No Comments
+Dove 4y-19 (0 Flock 4y19 24a9),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001T,55026,No Comments
+Dove 4y-2 (0 Flock 4y-2 24a1),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BT,55074,No Comments
+Dove 4y-20 (0 Flock 4y-20 24ca),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BG,55063,No Comments
+Dove 4y-21 (0 Flock 4y-21 24ba),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BW,55077,No Comments
+Dove 4y-22 (0 Flock 4y22 24c1),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001P,55022,No Comments
+Dove 4y-23 (0 Flock 4y-23 24bc),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BZ,55080,No Comments
+Dove 4y-24 (0 Flock 4y24 24b9),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001M,55020,No Comments
+Dove 4y-25 (0 Flock 4y25 24b2),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001U,55027,No Comments
+Dove 4y-26 (0  Flock 4y-26 24c4),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BP,55070,No Comments
+Dove 4y-27 (0 Flock 4y-27 24c8),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001CC,55083,No Comments
+Dove 4y-28 (0 Flock 4y28 24b1),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AA,55033,No Comments
+Dove 4y-29 (0 Flock 4y29 24bb),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001X,55030,No Comments
+Dove 4y-3 (0 Flock 4y-3 242e),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AC,55035,No Comments
+Dove 4y-30 (0 Flock 4y30 24C0),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001S,55025,No Comments
+Dove 4y-31 (0 Flock 4y-31 24be),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BU,55075,No Comments
+Dove 4y-32 (0 Flock 4y32 24b6),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001N,55021,No Comments
+Dove 4y-33 (0 Flock 4y-33 24bf),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AK,55042,No Comments
+Dove 4y-34 (0 Flock 4y-34 24cc),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,524,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001CB,55082,No Comments
+Dove 4y-35 (0 Flock 4y-35 24c5),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BA,55057,No Comments
+Dove 4y-36 (0 Flock 4y-36 24d0),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BX,55078,No Comments
+Dove 4y-4 (0 Flock 4y-4 24b0),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001AY,55055,No Comments
+Dove 4y-5 (0 Flock 4y5 24b4),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,523,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001V,55028,No Comments
+Dove 4y-6 (0 Flock 4y-6 24af),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,518,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BK,55066,No Comments
+Dove 4y-7 (0 Flock 4y7 2417),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,522,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001Z,55032,No Comments
+Dove 4y-8 (0 Flock 4y-8 24ab),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BQ,55071,No Comments
+Dove 4y-9 (0 Flock 4y-9 24a8),USA,USA,"Planet Labs, Inc.",Commercial,Earth Observation,LEO,Sun-Synchronous,517,537,03/01/23,"Planet Labs, Inc.",USA,Cape Canaveral,Falcon 9,2023-001BN,55069,No Comments
+_MECE,Turkey,Turkey,T†B_TAK Space Technologies Research Institute,Civil,Earth Observation,LEO,Sun-Synchronous,668,679,15/04/23,T†B_TAK Space Technologies Research Institute,Turkey,Vandenberg AFB,Falcon 9,2023-054A,56178,Turkey's first earth observation satellite.
+"Navstar GPS III-6 (Navstar SVN 79, PRN 28, USA 343)",USA,USA,DoD/US Air Force,Military/Commercial,Navigation/Global Positioning,MEO,Non-Polar Inclined,"20,177","20,203",18/01/23,Lockheed Martin Missiles & Space,USA,Cape Canaveral,Falcon 9,2023-009A,55268,No Comments
+„uSat-32 (Albania-1),Uruguay,Argentina,Satellogic S.A.,Commercial,Earth Observation,LEO,Sun-Synchronous,521,537,03/01/23,Satellogic,Argentina,Cape Canaveral,Falcon 9,2023-001BH,55064,Collaboration with Albania and dedicated usage of satellite by Albania.
+„uSat-33 (Albania-2),Uruguay,Argentina,Satellogic S.A.,Commercial,Earth Observation,LEO,Sun-Synchronous,521,537,03/01/23,Satellogic,Argentina,Cape Canaveral,Falcon 9,2023-001AQ,55047,Collaboration with Albania and dedicated usage of satellite by Albania.
+„uSat-34 (Amelia Earhart),Uruguay,Argentina,Satellogic S.A.,Commercial,Earth Observation,LEO,Sun-Synchronous,521,537,03/01/23,Satellogic,Argentina,Cape Canaveral,Falcon 9,2023-001AN,55045,No Comments
+„uSat-35 (Williamina),Uruguay,Argentina,Satellogic S.A.,Commercial,Earth Observation,LEO,Sun-Synchronous,521,537,03/01/23,Satellogic,Argentina,Cape Canaveral,Falcon 9,2023-001AR,55048,No Comments
+OneWeb-0532             ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004A,55140,No Comments
+OneWeb-0533                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004B,55141,No Comments
+OneWeb-0541                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004C,55142,No Comments
+OneWeb-0543                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004D,55143,No Comments
+OneWeb-0544                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004E,55144,No Comments
+OneWeb-0553                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043K,56055,No Comments
+OneWeb-0554                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043L,56056,No Comments
+OneWeb-0555                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043M,56057,No Comments
+OneWeb-0557                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043N,56058,No Comments
+OneWeb-0558                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043P,56059,No Comments
+OneWeb-0559                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043Q,56060,No Comments
+OneWeb-0560                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004F,55145,No Comments
+OneWeb-0564                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029F,55801,No Comments
+OneWeb-0565                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004G,55146,No Comments
+OneWeb-0566                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043R,56061,No Comments
+OneWeb-0567                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004H,55147,No Comments
+OneWeb-0568                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043S,56062,No Comments
+OneWeb-0569                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004J,55148,No Comments
+OneWeb-0570                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004K,55149,No Comments
+OneWeb-0571                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004L,55150,No Comments
+OneWeb-0572                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004M,55151,No Comments
+OneWeb-0573                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004N,55152,No Comments
+OneWeb-0574                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043T,56063,No Comments
+OneWeb-0575                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043U,56064,No Comments
+OneWeb-0576                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043V,56065,No Comments
+OneWeb-0577                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043W,56066,No Comments
+OneWeb-0578                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043X,56067,No Comments
+OneWeb-0579                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043Y,56068,No Comments
+OneWeb-0581                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043Z,56069,No Comments
+OneWeb-0588                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004P,55153,No Comments
+OneWeb-0598                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004Q,55154,No Comments
+OneWeb-0599                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004R,55155,No Comments
+OneWeb-0609                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AA,56070,No Comments
+OneWeb-0613                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AB,56071,No Comments
+OneWeb-0614                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004S,55156,No Comments
+OneWeb-0616                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004T,55157,No Comments
+OneWeb-0617                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004U,55158,No Comments
+OneWeb-0618                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004V,55159,No Comments
+OneWeb-0619                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004W,55160,No Comments
+OneWeb-0620                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004X,55161,No Comments
+OneWeb-0621                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004Y,55162,No Comments
+OneWeb-0622                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004Z,55163,No Comments
+OneWeb-0623                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AA,55164,No Comments
+OneWeb-0624                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AB,55165,No Comments
+OneWeb-0625                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AC,55166,No Comments
+OneWeb-0626                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AD,55167,No Comments
+OneWeb-0627                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AE,55168,No Comments
+OneWeb-0628                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,"1,200","1,202",10/01/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-004AF,55169,No Comments
+OneWeb-0630                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AC,56072,No Comments
+OneWeb-0632                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AD,56073,No Comments
+OneWeb-0633                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AE,56074,No Comments
+OneWeb-0634                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AF,56075,No Comments
+OneWeb-0635                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AG,56076,No Comments
+OneWeb-0636                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AH,56077,No Comments
+OneWeb-0637                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AJ,56078,No Comments
+OneWeb-0638                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029G,55802,No Comments
+OneWeb-0639                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029H,55803,No Comments
+OneWeb-0640                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029J,55804,No Comments
+OneWeb-0641                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029K,55805,No Comments
+OneWeb-0642                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029L,55806,No Comments
+OneWeb-0643                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029M,55807,No Comments
+OneWeb-0644                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029N,55808,No Comments
+OneWeb-0645                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029P,55809,No Comments
+OneWeb-0646                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029Q,55810,No Comments
+OneWeb-0647                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AK,56079,No Comments
+OneWeb-0648                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029R,55811,No Comments
+OneWeb-0649                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029S,55812,No Comments
+OneWeb-0650                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029T,55813,No Comments
+OneWeb-0651                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AL,56080,No Comments
+OneWeb-0652                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029U,55814,No Comments
+OneWeb-0653                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029V,55815,No Comments
+OneWeb-0654                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029W,55816,No Comments
+OneWeb-0656                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029X,55817,No Comments
+OneWeb-0657                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029Y,55818,No Comments
+OneWeb-0658                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029Z,55819,No Comments
+OneWeb-0660                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AA,55820,No Comments
+OneWeb-0661                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AB,55821,No Comments
+OneWeb-0662                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AC,55822,No Comments
+OneWeb-0663                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AD,55823,No Comments
+OneWeb-0664                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AE,55824,No Comments
+OneWeb-0665                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AF,55825,No Comments
+OneWeb-0666                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AG,55826,No Comments
+OneWeb-0667                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AH,55827,No Comments
+OneWeb-0669                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AJ,55828,No Comments
+OneWeb-0670                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AK,55829,No Comments
+OneWeb-0671                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,977,982,09/03/23,OneWeb Satellites,USA,Cape Canaveral,Falcon 9,2023-029AL,55830,No Comments
+OneWeb-0718                ,United Kingdom,United Kingdom,OneWeb Satellites,Commercial,Communications,LEO,Polar,733,738,26/03/23,OneWeb Satellites,USA,Satish Dhawan Space Center,LVM3,2023-043AM,56081,No Comments
+SpaceBEE-156,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CU,55099,Communications
+SpaceBEE-157,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Fa,2023-001CX,55102,Communications
+SpaceBEE-158,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CV,55100,Communications
+SpaceBEE-159,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CW,55101,Communications
+SpaceBEE-160,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CS,55097,Communications
+SpaceBEE-161,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CR,55096,Communications
+SpaceBEE-162,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CQ,55095,Communications
+SpaceBEE-163,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CJ,55089,Communications
+SpaceBEE-164,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CL,55091,Communications
+SpaceBEE-165,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CP,55094,Communications
+SpaceBEE-166,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CM,55092,Communications
+SpaceBEE-167,USA,USA,Swarm Technologies,Commercial,Communications,LEO,Sun-Synchronous,516,536,03/01/23,Swarm Technologies,USA,Cape Canaveral,Falcon 9,2023-001CG,55087,Communications
+Starlink-4623                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AY,55315,No Comments
+Starlink-4774                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AX,56138,No Comments
+Starlink-4786                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014C ,55393,No Comments
+Starlink-5006                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AH ,55422,No Comments
+Starlink-5013                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AV,55492,No Comments
+Starlink-5016                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BC,56143,No Comments
+Starlink-5016                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BC,56143,No Comments
+Starlink-5019                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014S ,55407,No Comments
+Starlink-5020                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015K,55458,No Comments
+Starlink-5027                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AR,55370,No Comments
+Starlink-5030                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AD ,55418,No Comments
+Starlink-5033                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014X ,55412,No Comments
+Starlink-5047                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014U ,55409,No Comments
+Starlink-5058                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015H,55456,No Comments
+Starlink-5060                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014Y ,55413,No Comments
+Starlink-5062                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021K,55637,No Comments
+Starlink-5064                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AP ,55428,No Comments
+Starlink-5065                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021P,55641,No Comments
+Starlink-5067                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AB,55653,No Comments
+Starlink-5068                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AJ ,55423,No Comments
+Starlink-5069                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021N,55640,No Comments
+Starlink-5070                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AC,55654,No Comments
+Starlink-5071                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014M ,55402,No Comments
+Starlink-5072                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028T,55758,No Comments
+Starlink-5073                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AN ,55427,No Comments
+Starlink-5074                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AZ ,55438,No Comments
+Starlink-5076                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014L ,55401,No Comments
+Starlink-5077,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014A,55391,No Comments
+Starlink-5080                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AY ,55437,No Comments
+Starlink-5081                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028U,55759,No Comments
+Starlink-5085                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014B ,55392,No Comments
+Starlink-5089               ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BH,56148,No Comments
+Starlink-5089               ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BH,56148,No Comments
+Starlink-5090                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AW,56137,No Comments
+Starlink-5092                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014T ,55408,No Comments
+Starlink-5100                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AY,55495,No Comments
+Starlink-5102                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021T,55645,No Comments
+Starlink-5104                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021U,55646,No Comments
+Starlink-5111                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BF,56146,No Comments
+Starlink-5111                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BF,56146,No Comments
+Starlink-5139                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AZ,55496,No Comments
+Starlink-5140 ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BG,56147,No Comments
+Starlink-5140 ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BG,56147,No Comments
+Starlink-5141                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015BD,55500,No Comments
+Starlink-5180                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010BB,55318,No Comments
+Starlink-5196                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010BC,55319,No Comments
+Starlink-5218                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021J,55636,No Comments
+Starlink-5224                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014G ,55397,No Comments
+Starlink-5230                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014D ,55394,No Comments
+Starlink-5232                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AZ,55675,No Comments
+Starlink-5236                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010F,55274,No Comments
+Starlink-5257                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AZ,55316,No Comments
+Starlink-5260                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010G,55275,No Comments
+Starlink-5261                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010H,55276,No Comments
+Starlink-5265                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010BA,55317,No Comments
+Starlink-5266                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010X,55290,No Comments
+Starlink-5267                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AD,55655,No Comments
+Starlink-5270                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AG,55299,No Comments
+Starlink-5272,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AF,55298,No Comments
+Starlink-5274                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014E ,55395,No Comments
+Starlink-5275                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014H ,55398,No Comments
+Starlink-5276                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014J ,55399,No Comments
+Starlink-5277,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010A,55269,No Comments
+Starlink-5283                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014F ,55396,No Comments
+Starlink-5284                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AE,55297,No Comments
+Starlink-5285                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AD,55296,No Comments
+Starlink-5286                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AB,55294,No Comments
+Starlink-5287                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AA,55293,No Comments
+Starlink-5288                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AQ,55307,No Comments
+Starlink-5289                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010K,55278,No Comments
+Starlink-5291                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010E,55273,No Comments
+Starlink-5292                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AR,55308,No Comments
+Starlink-5293                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AC,55295,No Comments
+Starlink-5295                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AP,55306,No Comments
+Starlink-5296                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AV,55312,No Comments
+Starlink-5298                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010N,55281,No Comments
+Starlink-5299                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010J,55277,No Comments
+Starlink-5300                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021BA,55676,No Comments
+Starlink-5301,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010B,55270,No Comments
+Starlink-5303                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021C,55630,No Comments
+Starlink-5305                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AX,55314,No Comments
+Starlink-5306                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010C,55271,No Comments
+Starlink-5307                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AG,55658,No Comments
+Starlink-5308                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AH,55300,No Comments
+Starlink-5309                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AT,55310,No Comments
+Starlink-5310                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010D,55272,No Comments
+Starlink-5311                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010V,55288,No Comments
+Starlink-5312                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AU,55311,No Comments
+Starlink-5313                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AW,55313,No Comments
+Starlink-5314                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021BC,55678,No Comments
+Starlink-5315                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AS,55309,No Comments
+Starlink-5316                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AN,55305,No Comments
+Starlink-5317                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010Q,55283,No Comments
+Starlink-5318                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AM,55304,No Comments
+Starlink-5320                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010W,55289,No Comments
+Starlink-5321                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AK,55302,No Comments
+Starlink-5322                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010AL,55303,No Comments
+Starlink-5323                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010L,55279,No Comments
+Starlink-5324                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021BB,55677,No Comments
+Starlink-5325                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010Z,55292,No Comments
+Starlink-5326                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AE,55656,No Comments
+Starlink-5327                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010Y,55291,No Comments
+Starlink-5328                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AF,55657,No Comments
+Starlink-5330                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010P,55282,No Comments
+Starlink-5331                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010M,55280,No Comments
+Starlink-5332                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010S,55285,No Comments
+Starlink-5337                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010R,55284,No Comments
+Starlink-5338                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010T,55286,No Comments
+Starlink-5341                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,580,19/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-010U,55287,No Comments
+Starlink-5344                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AX,55494,No Comments
+Starlink-5362                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AW,55493,No Comments
+Starlink-5363                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015BA,55497,No Comments
+Starlink-5364                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AU,55491,No Comments
+Starlink-5365                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015BB,55498,No Comments
+Starlink-5366                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015BC,55499,No Comments
+Starlink-5367,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015BE,55501,No Comments
+Starlink-5370                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BE,56145,No Comments
+Starlink-5370                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BE,56145,No Comments
+Starlink-5373                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AT,55490,No Comments
+Starlink-5374                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BD,56144,No Comments
+Starlink-5374                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BD,56144,No Comments
+Starlink-5375                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AZ,56140,No Comments
+Starlink-5376                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BB,56142,No Comments
+Starlink-5376                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BB,56142,No Comments
+Starlink-5377                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046BA,56141,No Comments
+Starlink-5378                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AY,56139,No Comments
+Starlink-5423                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AU,55670,No Comments
+Starlink-5455                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AS,55668,No Comments
+Starlink-5456                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AR,55667,No Comments
+Starlink-5459                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AT,55669,No Comments
+Starlink-5460                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AV,55671,No Comments
+Starlink-5461                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AW,55672,No Comments
+Starlink-5462                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AY,55674,No Comments
+Starlink-5463                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AX,55673,No Comments
+Starlink-5467                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AJ,55660,No Comments
+Starlink-5469                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021X,55649,No Comments
+Starlink-5473                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AM,55663,No Comments
+Starlink-5474                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AP,55665,No Comments
+Starlink-5475                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AK,55661,No Comments
+Starlink-5477                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AH,55659,No Comments
+Starlink-5478                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021Q,55642,No Comments
+Starlink-5479                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AL,55662,No Comments
+Starlink-5480                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AN,55664,No Comments
+Starlink-5483                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021R,55643,No Comments
+Starlink-5484                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021A,55628,No Comments
+Starlink-5487                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021AA,55652,No Comments
+Starlink-5489                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AV,56136,No Comments
+Starlink-5491                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013B,55332,No Comments
+Starlink-5492                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013A,55331,No Comments
+Starlink-5493                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013C,55333,No Comments
+Starlink-5494                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021Y,55650,No Comments
+Starlink-5495                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021H,55635,No Comments
+Starlink-5497                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021B,55629,No Comments
+Starlink-5498                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021F,55633,No Comments
+Starlink-5499                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028Z,55764,No Comments
+Starlink-5500                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021G,55634,No Comments
+Starlink-5501                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021W,55648,No Comments
+Starlink-5502                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021S,55644,No Comments
+Starlink-5506                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021Z,55651,No Comments
+Starlink-5507                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021L,55638,No Comments
+Starlink-5508                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021M,55639,No Comments
+Starlink-5510                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021V,55647,No Comments
+Starlink-5531                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BE,55384,No Comments
+Starlink-5532                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028V,55760,No Comments
+Starlink-5539                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028G,55747,No Comments
+Starlink-5544                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028S,55757,No Comments
+Starlink-5546                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021E,55632,No Comments
+Starlink-5547                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013X,55352,No Comments
+Starlink-5555                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BH,55386,No Comments
+Starlink-5556                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BG,55385,No Comments
+Starlink-5557                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AF,55770,No Comments
+Starlink-5558                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/02/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-021D,55631,No Comments
+Starlink-5560                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028J,55749,No Comments
+Starlink-5563                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AU,56135,No Comments
+Starlink-5564                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AT,56134,No Comments
+Starlink-5565,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028E,55745,No Comments
+Starlink-5566                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AS,56133,No Comments
+Starlink-5567                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AY,55377,No Comments
+Starlink-5568                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AT,55372,No Comments
+Starlink-5569                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BA,55379,No Comments
+Starlink-5570                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AU ,55433,No Comments
+Starlink-5571                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BB,55380,No Comments
+Starlink-5572                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AZ,55378,No Comments
+Starlink-5573                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028K,55750,No Comments
+Starlink-5574                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AH,55362,No Comments
+Starlink-5575                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BC,55382,No Comments
+Starlink-5576                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013BD,55383,No Comments
+Starlink-5577                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028L,55751,No Comments
+Starlink-5578                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AV,55374,No Comments
+Starlink-5579                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028F,55746,No Comments
+Starlink-5580                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028H,55748,No Comments
+Starlink-5581                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AU,55373,No Comments
+Starlink-5583                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AD,55768,No Comments
+Starlink-5584                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AE,55769,No Comments
+Starlink-5586                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AX,55376,No Comments
+Starlink-5588                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AW,55375,No Comments
+Starlink-5590                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AS,55371,No Comments
+Starlink-5591                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AG,55771,No Comments
+Starlink-5592,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028A,55741,No Comments
+Starlink-5593                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028Y,55763,No Comments
+Starlink-5594,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028B,55742,No Comments
+Starlink-5595                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AA,55765,No Comments
+Starlink-5596                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AD,55476,No Comments
+Starlink-5597                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014N ,55403,No Comments
+Starlink-5598                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AG ,55421,No Comments
+Starlink-5599                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AB,55766,No Comments
+Starlink-5601                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028D,55744,No Comments
+Starlink-5602                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028C,55743,No Comments
+Starlink-5603                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028X,55762,No Comments
+Starlink-5604                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AF ,55420,No Comments
+Starlink-5605                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014W ,55411,No Comments
+Starlink-5606                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AC,55767,No Comments
+Starlink-5607                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014P ,55404,No Comments
+Starlink-5608                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013Y,55353,No Comments
+Starlink-5609                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013T,55348,No Comments
+Starlink-5611                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028W,55761,No Comments
+Starlink-5612                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028P,55754,No Comments
+Starlink-5613                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028M,55752,No Comments
+Starlink-5614                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028R,55756,No Comments
+Starlink-5615                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AL ,55425,No Comments
+Starlink-5616                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AC ,55417,No Comments
+Starlink-5617                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028N,55753,No Comments
+Starlink-5618                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AA ,55415,No Comments
+Starlink-5619                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028Q,55755,No Comments
+Starlink-5620                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014Z ,55414,No Comments
+Starlink-5621                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AV ,55434,No Comments
+Starlink-5622                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AD,55358,No Comments
+Starlink-5623                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014Q,55405,No Comments
+Starlink-5624                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AB ,55416,No Comments
+Starlink-5625                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AP,55368,No Comments
+Starlink-5626                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AW                ,55435,No Comments
+Starlink-5627                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AK,55364,No Comments
+Starlink-5628                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015T,55466,No Comments
+Starlink-5629                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AE ,55419,No Comments
+Starlink-5630                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014R ,55406,No Comments
+Starlink-5631                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013R,55346,No Comments
+Starlink-5632                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014K ,55400,No Comments
+Starlink-5633                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014V,55410,No Comments
+Starlink-5634                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014BA                ,55439,No Comments
+Starlink-5635                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AN,55367,No Comments
+Starlink-5636                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015F,55455,No Comments
+Starlink-5637                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AT ,55432,No Comments
+Starlink-5638                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AM ,55426,No Comments
+Starlink-5639                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AL,55365,No Comments
+Starlink-5640                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AX ,55436,No Comments
+Starlink-5641                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AE,55359,No Comments
+Starlink-5642                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AR ,55430,No Comments
+Starlink-5643                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AS ,55431,No Comments
+Starlink-5644                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AQ,55369,No Comments
+Starlink-5645                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,580,583,31/01/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-014AQ ,55429,No Comments
+Starlink-5646                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015N,55461,No Comments
+Starlink-5647                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AA,55355,No Comments
+Starlink-5648                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AJ,55363,No Comments
+Starlink-5649                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013Z,55354,No Comments
+Starlink-5650                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AC,55475,No Comments
+Starlink-5651                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AC,55357,No Comments
+Starlink-5652                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013D,55334,No Comments
+Starlink-5653                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013Q,55345,No Comments
+Starlink-5654                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AM,55366,No Comments
+Starlink-5655                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013F,55336,No Comments
+Starlink-5656                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015C,55451,No Comments
+Starlink-5657                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013M,55342,No Comments
+Starlink-5658                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013H,55338,No Comments
+Starlink-5659                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013W,55351,No Comments
+Starlink-5660                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013E,55335,No Comments
+Starlink-5661                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013N,55343,No Comments
+Starlink-5662                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013P,55344,No Comments
+Starlink-5663                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013S,55347,No Comments
+Starlink-5664                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AF,55360,No Comments
+Starlink-5665                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013AG,55361,No Comments
+Starlink-5666                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013U,55349,No Comments
+Starlink-5667                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013G,55337,No Comments
+Starlink-5668                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013V,55350,No Comments
+Starlink-5669                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015L,55459,No Comments
+Starlink-5670                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013L,55341,No Comments
+Starlink-5671                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013J,55339,No Comments
+Starlink-5672                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015V,55468,No Comments
+Starlink-5673                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015P,55462,No Comments
+Starlink-5674                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015S,55465,No Comments
+Starlink-5675                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,26/01/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-013K,55340,No Comments
+Starlink-5676                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015R,55464,No Comments
+Starlink-5677                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015Q,55463,No Comments
+Starlink-5679                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015U,55467,No Comments
+Starlink-5680                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015G,55455,No Comments
+Starlink-5681                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015W,55469,No Comments
+Starlink-5682                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015J,55457,No Comments
+Starlink-5683                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015D,55452,No Comments
+Starlink-5684                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015E,55453,No Comments
+Starlink-5685                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AE,55477,No Comments
+Starlink-5686                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015B,55450,No Comments
+Starlink-5687                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AA,55473,No Comments
+Starlink-5688                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AG,55479,No Comments
+Starlink-5689                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AB,55474,No Comments
+Starlink-5690                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AH,55480,No Comments
+Starlink-5691                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AF,55478,No Comments
+Starlink-5692                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AL,55483,No Comments
+Starlink-5693                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AK,55482,No Comments
+Starlink-5694                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AJ,55481,No Comments
+Starlink-5695                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AN,55485,No Comments
+Starlink-5696                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AM,55484,No Comments
+Starlink-5697                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020W,55589,No Comments
+Starlink-5698                 ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BG,55623,No Comments
+Starlink-5699                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015A,55449,No Comments
+Starlink-5700                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AQ,55607,No Comments
+Starlink-5701                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AQ,55487,No Comments
+Starlink-5702                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BF,55622,No Comments
+Starlink-5703                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AA,55593,No Comments
+Starlink-5704                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AP,55486,No Comments
+Starlink-5705                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015Z,55472,No Comments
+Starlink-5706                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015AR,55488,No Comments
+Starlink-5708                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015X,55470,No Comments
+Starlink-5709                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BE,55621,No Comments
+Starlink-5710                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AZ,55616,No Comments
+Starlink-5711                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,323,342,02/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-015Y,55471,No Comments
+Starlink-5712                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AY,55615,No Comments
+Starlink-5713                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020K,55578,No Comments
+Starlink-5714                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AX,55614,No Comments
+Starlink-5715                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AW,55613,No Comments
+Starlink-5717                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BB,55618,No Comments
+Starlink-5718                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BD,55620,No Comments
+Starlink-5719                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AS,55609,No Comments
+Starlink-5720                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BC,55619,No Comments
+Starlink-5721                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020BA,55617,No Comments
+Starlink-5722                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AT,55610,No Comments
+Starlink-5725                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AN,55605,No Comments
+Starlink-5726                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AR,55608,No Comments
+Starlink-5727                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020U,55587,No Comments
+Starlink-5728                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020V,55588,No Comments
+Starlink-5729                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AD,55596,No Comments
+Starlink-5730                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AU,55611,No Comments
+Starlink-5732                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020D,55572,No Comments
+Starlink-5734                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AV,55612,No Comments
+Starlink-5735                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AL,55603,No Comments
+Starlink-5736                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020R,55584,No Comments
+Starlink-5737                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020B,55570,No Comments
+Starlink-5738                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020E,55573,No Comments
+Starlink-5739                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020C,55571,No Comments
+Starlink-5740                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AC,55595,No Comments
+Starlink-5741                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020P,55582,No Comments
+Starlink-5742                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020Q,55583,No Comments
+Starlink-5743                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AE,55597,No Comments
+Starlink-5744                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AJ,55601,No Comments
+Starlink-5745                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020G,55575,No Comments
+Starlink-5747                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020F,55574,No Comments
+Starlink-5748                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AM,55604,No Comments
+Starlink-5749                                      ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020A,55569,No Comments
+Starlink-5750                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AB,55594,No Comments
+Starlink-5751                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020H,55576,No Comments
+Starlink-5752                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020J,55577,No Comments
+Starlink-5753                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020N,55581,No Comments
+Starlink-5754                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020L,55579,No Comments
+Starlink-5755                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AH,55600,No Comments
+Starlink-5756                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AF,55598,No Comments
+Starlink-5757                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020M,55580,No Comments
+Starlink-5758                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BD,56037,No Comments
+Starlink-5759                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020Z,55592,No Comments
+Starlink-5760                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020Y,55591,No Comments
+Starlink-5761                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AG,55599,No Comments
+Starlink-5762                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020X,55590,No Comments
+Starlink-5764                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020AK,55602,No Comments
+Starlink-5766                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AR,56025,No Comments
+Starlink-5767                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020T,55586,No Comments
+Starlink-5769                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,12/02/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-020S,55585,No Comments
+Starlink-5770                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AS,56026,No Comments
+Starlink-5771                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AP,56023,No Comments
+Starlink-5772                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AQ,56024,No Comments
+Starlink-5774                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AV,56029,No Comments
+Starlink-5777                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AT,56027,No Comments
+Starlink-5779                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AU,56028,No Comments
+Starlink-5781                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AW,56030,No Comments
+Starlink-5782                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BA,56034,No Comments
+Starlink-5783                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AN,56022,No Comments
+Starlink-5784                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AZ,56033,No Comments
+Starlink-5785                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AX,56031,No Comments
+Starlink-5786                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AY,56032,No Comments
+Starlink-5787                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042U,56004,No Comments
+Starlink-5789                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042T,56003,No Comments
+Starlink-5790                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BC,56036,No Comments
+Starlink-5792                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BB,56035,No Comments
+Starlink-5793                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BE,56038,No Comments
+Starlink-5794                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042W,56006,No Comments
+Starlink-5795                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BF,56039,No Comments
+Starlink-5796                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037C,55916,No Comments
+Starlink-5797                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AV,55784,No Comments
+Starlink-5798                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BG,56040,No Comments
+Starlink-5799                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042S,56002,No Comments
+Starlink-5800                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042BH,56041,No Comments
+Starlink-5801                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042V,56005,No Comments
+Starlink-5803                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042Y,56008,No Comments
+Starlink-5804                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AZ,55788,No Comments
+Starlink-5806                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042X,56007,No Comments
+Starlink-5807                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028BC,55791,No Comments
+Starlink-5809                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AL,55775,No Comments
+Starlink-5810                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AM,55776,No Comments
+Starlink-5811                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AY,55787,No Comments
+Starlink-5812                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AK,55774,No Comments
+Starlink-5813                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028BB,55790,No Comments
+Starlink-5814                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AN,55777,No Comments
+Starlink-5815                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028BA,55789,No Comments
+Starlink-5816                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AP,55778,No Comments
+Starlink-5817                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AQ,55779,No Comments
+Starlink-5818                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AW,55785,No Comments
+Starlink-5819                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AR,55780,No Comments
+Starlink-5820                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AS,55781,No Comments
+Starlink-5823                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AX,55786,No Comments
+Starlink-5825                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AU,55783,No Comments
+Starlink-5826                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AT,55782,No Comments
+Starlink-5833                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AJ,55773,No Comments
+Starlink-5835                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,03/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-028AH,55772,No Comments
+Starlink-5848                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037U,55932,No Comments
+Starlink-5849                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037L,55924,No Comments
+Starlink-5851                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AK,55947,No Comments
+Starlink-5852                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037V,55933,No Comments
+Starlink-5854                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037K,55923,No Comments
+Starlink-5855                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037D,55917,No Comments
+Starlink-5856                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037A,55914,No Comments
+Starlink-5857                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AJ,55946,No Comments
+Starlink-5859                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037B,55915,No Comments
+Starlink-5861                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037H,55921,No Comments
+Starlink-5862                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037G,55920,No Comments
+Starlink-5863                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037J,55922,No Comments
+Starlink-5864                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AC,55940,No Comments
+Starlink-5867                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037E,55918,No Comments
+Starlink-5871                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037F,55919,No Comments
+Starlink-5878                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AT,55955,No Comments
+Starlink-5882                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037Y,55936,No Comments
+Starlink-5883                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AU,55956,No Comments
+Starlink-5884                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AV,55957,No Comments
+Starlink-5889                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AR,55953,No Comments
+Starlink-5892                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AS,55954,No Comments
+Starlink-5893                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AQ,55952,No Comments
+Starlink-5894               ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037BD,55965,No Comments
+Starlink-5895,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037BC,55964,No Comments
+Starlink-5896                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037S,55930,No Comments
+Starlink-5897                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037T,55931,No Comments
+Starlink-5898                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037R,55929,No Comments
+Starlink-5899                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AM,55949,No Comments
+Starlink-5900                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AL,55948,No Comments
+Starlink-5901                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042P,55999,No Comments
+Starlink-5902                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042N,55998,No Comments
+Starlink-5903                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042L,55996,No Comments
+Starlink-5904                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042M,55997,No Comments
+Starlink-5905                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042A,55986,No Comments
+Starlink-5906                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037BA,55962,No Comments
+Starlink-5907                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AM,56021,No Comments
+Starlink-5908                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AP,55951,No Comments
+Starlink-5909                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AA,55938,No Comments
+Starlink-5910                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042Q,56000,No Comments
+Starlink-5911                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AN,55950,No Comments
+Starlink-5912                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AL,56020,No Comments
+Starlink-5913                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037Z,55937,No Comments
+Starlink-5914                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AD,55941,No Comments
+Starlink-5915                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042B,55987,No Comments
+Starlink-5916                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042C,55988,No Comments
+Starlink-5917                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AE,55942,No Comments
+Starlink-5918                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AB,55939,No Comments
+Starlink-5919                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037P,55927,No Comments
+Starlink-5920                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037X,55935,No Comments
+Starlink-5921                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037N,55926,No Comments
+Starlink-5922                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037M,55925,No Comments
+Starlink-5924                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037BB,55963,No Comments
+Starlink-5925                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AH,55945,No Comments
+Starlink-5926                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AG,55944,No Comments
+Starlink-5927                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037W,55934,No Comments
+Starlink-5928                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AW,55958,No Comments
+Starlink-5929                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AX,55959,No Comments
+Starlink-5930                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037Q,55928,No Comments
+Starlink-5932                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AF,55943,No Comments
+Starlink-5933                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AZ,55961,No Comments
+Starlink-5934                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AH,56017,No Comments
+Starlink-5936                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AB,56011,No Comments
+Starlink-5938                ,USA,USA,SpaceX,Commercial,Communications,LEO,Polar,577,581,17/03/23,SpaceX,USA,Vandenberg AFB,Falcon 9,2023-037AY,55960,No Comments
+Starlink-5939,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AF,56015,No Comments
+Starlink-5940                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AC,56012,No Comments
+Starlink-5941,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AD,56013,No Comments
+Starlink-5942                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AE,56014,No Comments
+Starlink-5943                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AG,56016,No Comments
+Starlink-5944                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042R,56001,No Comments
+Starlink-5945                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AJ,56018,No Comments
+Starlink-5946                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042E,55990,No Comments
+Starlink-5947                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042D,55989,No Comments
+Starlink-5948                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042F,55991,No Comments
+Starlink-5949                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AK,56019,No Comments
+Starlink-5956                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042J,55994,No Comments
+Starlink-5957                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042K,55995,No Comments
+Starlink-5962                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042G,55992,No Comments
+Starlink-5964                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042Z,56009,No Comments
+Starlink-5968                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042AA,56010,No Comments
+Starlink-5969                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,565,567,24/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-042H,55993,No Comments
+Starlink-6030                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046Q,56107,No Comments
+Starlink-6062                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046M,56104,No Comments
+Starlink-6066                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046N,56105,No Comments
+Starlink-6071                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AR,56132,No Comments
+Starlink-6075                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046K,56102,No Comments
+Starlink-6076                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046H,56100,No Comments
+Starlink-6077                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046E,56097,No Comments
+Starlink-6078                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046P,56106,No Comments
+Starlink-6079                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AD,56120,No Comments
+Starlink-6080                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046V,56112,No Comments
+Starlink-6081                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046R,56108,No Comments
+Starlink-6082                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046T,56110,No Comments
+Starlink-6083                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046S,56109,No Comments
+Starlink-6084                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046U,56111,No Comments
+Starlink-6088                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046F,56098,No Comments
+Starlink-6089                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046D,56096,No Comments
+Starlink-6090                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046C,56095,No Comments
+Starlink-6091                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AC,56119,No Comments
+Starlink-6092                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AE,56121,No Comments
+Starlink-6093                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046G,56099,No Comments
+Starlink-6094                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AF,56122,No Comments
+Starlink-6095                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046J,56101,No Comments
+Starlink-6096                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046L,56103,No Comments
+Starlink-6101                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046Y,56115,No Comments
+Starlink-6102,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046A,56093,No Comments
+Starlink-6103                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046X,56114,No Comments
+Starlink-6104                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AL,56127,No Comments
+Starlink-6105                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AB,56118,No Comments
+Starlink-6107                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AA,56117,No Comments
+Starlink-6109                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046B,56094,No Comments
+Starlink-6113                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046W,56113,No Comments
+Starlink-6114                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046Z,56116,No Comments
+Starlink-6115                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AG,56123,No Comments
+Starlink-6117,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AP,56130,No Comments
+Starlink-6119                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AJ,56125,No Comments
+Starlink-6120                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AQ,56131,No Comments
+Starlink-6121                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AN,56129,No Comments
+Starlink-6122                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AM,56128,No Comments
+Starlink-6124                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AK,56126,No Comments
+Starlink-6126                ,USA,USA,SpaceX,Commercial,Communications,LEO,Non-Polar Inclined,564,567,29/03/23,SpaceX,USA,Cape Canaveral,Falcon 9,2023-046AH,56124,No Comments
+Tianmu-1 01,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,494,511,01/09/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Ceres,2023-003B,55134,https://www.newspace.im/constellations/xyong-microelectronics-park
+Tianmu-1 02,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,494,511,09/01/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Ceres,2023-003C,55135,https://www.newspace.im/constellations/xyong-microelectronics-park
+Tianmu-1 03,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,502,517,22/03/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Kuaizhou 1A,2023-039A,55973,https://www.newspace.im/constellations/xyong-microelectronics-park
+Tianmu-1 04,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,502,517,22/03/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Kuaizhou 1A,2023-039B,55974,https://www.newspace.im/constellations/xyong-microelectronics-park
+Tianmu-1 05,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,502,516,22/03/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Kuaizhou 1A,2023-039C,55975,https://www.newspace.im/constellations/xyong-microelectronics-park
+Tianmu-1 06,NR (9/23),China,Xiyong Microelectrics Park,Commercial,Meteorological,LEO,Sun-Synchronous,501,515,22/03/23,China Aerospace Science and Technology Corp. (CASC),China,Jiuquan Satellite Launch Center,Kuaizhou 1A,2023-039D,55976,https://www.newspace.im/constellations/xyong-microelectronics-park
